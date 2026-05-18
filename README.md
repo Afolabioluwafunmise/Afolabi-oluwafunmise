@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Financial+Analyst;Turning+Data+into+Actionable+Insights;[Turning data into clear and actionable insights] alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Financial+Data+Analyst;Turning+Data+into+Actionable+Insights;[Turning data into clear and actionable insights] alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -14,11 +14,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a Financial & data analyst, passionate about helping businesses make sense of their data. I enjoy transforming complex, messy financial datasets into clear stories and actionable insights.
+I'm a Financial data analyst, passionate about helping businesses make sense of their financial data. I enjoy transforming complex, messy financial datasets into clear stories and actionable insights.
 
 I build data solutions that help business & finance teams make smarter decisions, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy Exploring finance focused videos, mentoring others and reading. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy exploring finance focused videos, mentoring others and reading. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://afolabioluwafunmise.github.io/)
@@ -54,8 +54,9 @@ When I'm not working with data, I enjoy Exploring finance focused videos, mentor
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Financial%20Reporting-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Intermediate-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Data%20Modelling-FF6B6B?style=flat" alt="Data Modelling Skill Badge">
+  <img src="https://img.shields.io/badge/Financial%20Reporting-4ECDC4?style=flat" alt="Financial Reporting Skill Badge">
+  <img src="https://img.shields.io/badge/Descriptive%20Analystics-45B7D1?style=flat" alt="Descriptive Analytics Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-96CEB4?style=flat" alt="KPI Development Skill Badge">
+ <img src="https://img.shields.io/badge/Variance%20Analysis-96CEB4?style=flat" alt="Variance Analysis Skill Badge">
 </p>
