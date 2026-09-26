@@ -24,8 +24,9 @@ When I'm not working with data, I enjoy exploring finance focused videos, mentor
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Building financial dashboards and automated reporting pipelines for banking & finance use case. 
-- **Project B:** Exploring financial modelling projects that combine economic thinking with modern data tools.
+- **Project A:**  Building financial dashboards and tracking KPIs for banking & finance teams, focused on streamlining reporting.
+  
+- **Project B:** Exploring financial data projects that combine business thinking with Microsoft Excel to build forecasting models.
 
 ## 🌱 Currently Learning 
 
